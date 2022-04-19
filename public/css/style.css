@@ -1,0 +1,64 @@
+.container{
+  position: relative;
+  left: 3%;/* Some padding */
+}
+
+
+
+.resultOut{
+  background-color: rgb(229, 242, 255); /* Blue background */
+  border: none; /* Remove borders */
+  color: rgb(0, 0, 0); /* White text */
+  padding: 6px 10px; /* Some padding */
+  font-size: 20px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */ 
+}
+  .options{
+    color: rgb(0, 0, 0); /* White text */
+
+    padding: 5px 90px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+  
+  }
+
+.btnCheck{
+  position: relative;
+  left: 3.7%; 
+  background-color: rgb(3, 143, 1); /* Blue background */
+    border: none; /* Remove borders */
+    padding-left: 100%;
+    color: rgb(255, 255, 255); /* White text */
+    padding: 12px 50px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */
+}
+
+
+
+.btnReset{
+  position: relative;
+  left: 4%; 
+  background-color: rgb(206, 45, 0); /* Blue background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 26px; /* Some padding */
+  font-size: 20px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  }
+
+  .form-input{
+    background-color: rgb(229, 242, 255); /* Blue background */
+    border: none; /* Remove borders */
+    color: rgb(0, 0, 0); /* White text */
+    padding: 6px 10px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */ 
+  }
+  .result{
+    background-color: rgb(255, 255, 255); /* Blue background */
+    border: none; /* Remove borders */
+    color: rgb(0, 0, 0); /* White text */
+    padding: 12px 10px; /* Some padding */
+    font-size: 20px; /* Set a font size */
+    cursor: pointer; /* Mouse pointer on hover */ }

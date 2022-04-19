@@ -1,0 +1,21 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Azubi\\" : "Azubi/",
+            "Public\\" : "public/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ringo Lewandrowski",
+            "email": "ringo.lewandrowski@check24.de"
+        },
+        {
+            "name": "Mahmoud Ahmad",
+            "email": "mahmout.ahmad@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"   
+    }
+}
